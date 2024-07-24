@@ -7,6 +7,7 @@ import Home from './pages/Home/Home'
 import Cart from "./pages/Cart/Cart"
 import PlaceOrder from "./pages/PlaceOrder/PlcaOrder"
 
+
 function App() {
   return (
     <div className='app'>
